@@ -1,0 +1,8 @@
+{
+  "name": "strich.windefenderexcluder",
+  "displayName": "Window Defender Excluder",
+  "author": "Scott Richmond",
+  "version": "1.0",
+  "unity": "2022.1",
+  "type": "library"
+}
